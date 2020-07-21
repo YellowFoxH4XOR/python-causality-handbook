@@ -20,6 +20,7 @@ My final reference is Miguel Hernan and Jamie Robins' book. It has been my trust
 * [Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 
 # Tutorials
+### The Core
 1. [Introduction To Causality](https://github.com/matheusfacure/python-causality-handbook/blob/master/1-Introduction-To-Causality.ipynb)
 2. [Randomised Experiments](https://github.com/matheusfacure/python-causality-handbook/blob/master/2-Randomised-Experiments.ipynb)
 3. [Stats Review: The Most Dangerous Equation](https://github.com/matheusfacure/python-causality-handbook/blob/master/3-Stats-Review-The-Most-Dangerous-Equation.ipynb)
@@ -36,5 +37,10 @@ My final reference is Miguel Hernan and Jamie Robins' book. It has been my trust
 14. [Difference-in-Difference](https://github.com/matheusfacure/python-causality-handbook/blob/master/14-Difference-in-Difference.ipynb)
 15. [Synthetic Control](https://github.com/matheusfacure/python-causality-handbook/blob/master/15-Synthetic-Control.ipynb)
 16. [Regression Discontinuity Design](https://github.com/matheusfacure/python-causality-handbook/blob/master/16-Regression-Discontinuity-Design.ipynb)
+
+### The Frontier
+
+Not so harmless econometrics ahead. Proceed at your own peril.
+
 
 If the notebooks won't load or you just want something better formated, I've uploaded all these tutorials to [my blog](https://matheusfacure.github.io/econtutorials/)
